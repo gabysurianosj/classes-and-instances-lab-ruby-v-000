@@ -1,4 +1,4 @@
 class Person 
 end 
 
-per
+person = adele_goldberg
